@@ -96,6 +96,8 @@ git checkout <<branch_name>>
 docker build -f Dockerfile . -t webgoat/webgoat
 ```
 
+test
+
 Now we are ready to run the project. WebGoat 8.x is using Spring-Boot.
 
 ```Shell
