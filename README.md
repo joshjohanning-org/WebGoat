@@ -95,6 +95,7 @@ git checkout <<branch_name>>
 # Using docker or podman, you can than build the container locally
 docker build -f Dockerfile . -t webgoat/webgoat
 ```
+test
 
 Now we are ready to run the project. WebGoat 8.x is using Spring-Boot.
 
